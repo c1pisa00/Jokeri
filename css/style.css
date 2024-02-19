@@ -2,13 +2,17 @@ p {
     font-weight: bold;
 }
 
-td {
+#rivit td {
     border-radius: 10px;
     background-color: beige;
     width: 10px;
     border: 1px solid black;
     padding: 5px;
   }
+
+#rivit {
+    border-spacing: 10px;
+}
 
 button {
     border-radius: 10px;
